@@ -5,10 +5,10 @@
 <!-- Social Icons -->
 <p align="center">
     <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-Badrudin-green" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Yahye-green" alt="GitHub">
   </a>
   <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-Badrudin-green" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-YahyeTwitter-green" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/yahye-isse-37b481141">
     <img src="https://img.shields.io/badge/LinkedIn-Yahye-green" alt="LinkedIn">
