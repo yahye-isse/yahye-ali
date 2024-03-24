@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-Badrudin-blue" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="www.linkedin.com/in/yahye-isse-37b481141" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/yahye-isse-37b481141/" alt="LinkedIn">
   </a>
 </p>
 
