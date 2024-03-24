@@ -10,7 +10,7 @@
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-Badrudin-blue" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="www.linkedin.com/in/yahye-isse-37b481141">
     <img src="https://www.linkedin.com/in/yahye-isse-37b481141/" alt="LinkedIn">
   </a>
 </p>
