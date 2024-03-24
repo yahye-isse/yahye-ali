@@ -4,7 +4,7 @@
 
 <!-- Social Icons -->
 <p align="center">
-    <a href="https://github.com/your-username">
+    <a href="https://github.com/yahye-ali">
     <img src="https://img.shields.io/badge/GitHub-Yahye-green" alt="GitHub">
   </a>
   <a href="https://twitter.com/your-twitter-handle">
