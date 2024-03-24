@@ -74,12 +74,6 @@
 
 
 
-<!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badrudin-cloud&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-</p>
-
 <!-- Footer Section -->
 <p align="center">
   Feel free to connect with me!
