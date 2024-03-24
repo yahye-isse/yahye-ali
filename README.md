@@ -10,10 +10,9 @@
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-Badrudin-blue" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/yahye-isse-37b481141">
     <img src="https://img.shields.io/badge/LinkedIn-Badrudin-blue" alt="LinkedIn">
   </a>
-
 </p>
 
 <!-- Skills Section -->
