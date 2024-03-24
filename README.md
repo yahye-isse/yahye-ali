@@ -7,7 +7,7 @@
     <a href="https://github.com/yahye-ali">
     <img src="https://img.shields.io/badge/GitHub-Yahye-green" alt="GitHub">
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
+  <a href="https://twitter.com/YahyeCiise">
     <img src="https://img.shields.io/badge/Twitter-YahyeTwitter-green" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/yahye-isse-37b481141">
