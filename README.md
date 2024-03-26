@@ -33,8 +33,8 @@
 <h3 align="center">Data Science</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="PowerBI">
-  <img src=" https://img.shields.io/badge/MetaLap-007ACC?style=for-the-badge&logo=appveyor&logoColor=white" alt="MetLap">
-  <img src=" https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/MetaLap-007ACC?style=for-the-badge&logo=appveyor&logoColor=white" alt="MetLap">
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL (Structured Query Language)">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="APACHE">
