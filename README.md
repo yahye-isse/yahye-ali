@@ -30,7 +30,7 @@
 
 <!-- Web Design Section -->
 <h2 align="center">Web Design</h2>
-<p align="center">I also have experience in web design and UI/UX development. Here are some of the design tools and skills I use:</p>
+<p align="center">I also have experience in web design. Here are some of the design tools and skills I use:</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
