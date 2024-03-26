@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
-  //<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Adobe XD">
+ <!-- <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=black" alt="Adobe XD"> -->
  
 </p>
 
